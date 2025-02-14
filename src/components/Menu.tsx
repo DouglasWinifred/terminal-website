@@ -68,7 +68,7 @@ export default function Menu() {
       </a>
 
       <a
-        href="https://www.example.com/contract"
+        href="#"
         className="menu__button"
         target="_blank"
         rel="noopener noreferrer"
