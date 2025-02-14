@@ -74,7 +74,7 @@ export default function Menu() {
         rel="noopener noreferrer"
       >
         <span className="menu__header">Contract</span>
-        <span className="menu__subheader">Not develop yet</span>
+        <span className="menu__subheader">E3pNvJfG4jiYBSxjDorL7i9GV8XhmzQFMkk6EXrqpump</span>
       </a>
     </div>
   );
